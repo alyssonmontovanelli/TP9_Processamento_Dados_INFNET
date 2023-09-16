@@ -1,0 +1,93 @@
+[
+    {
+        "ID": "PC001",
+        "Modelo": "Lenovo Ideapad S145",
+        "SO": "Windows 10",
+        "ID_Departamento": "1",
+        "ID_Usuario": "1"
+    },
+    {
+        "ID": "PC002",
+        "Modelo": "HP Pavilion x360",
+        "SO": "Windows 10",
+        "ID_Departamento": "2",
+        "ID_Usuario": "2"
+    },
+    {
+        "ID": "PC003",
+        "Modelo": "HP Pavilion x360",
+        "SO": "Windows 10",
+        "ID_Departamento": "3",
+        "ID_Usuario": "3"
+    },
+    {
+        "ID": "PC004",
+        "Modelo": "HP Pavilion x360",
+        "SO": "Ubuntu 20.10",
+        "ID_Departamento": "4",
+        "ID_Usuario": "4"
+    },
+    {
+        "ID": "PC005",
+        "Modelo": "HP Pavilion x360",
+        "SO": "Ubuntu 20.10",
+        "ID_Departamento": "5",
+        "ID_Usuario": "5"
+    },
+    {
+        "ID": "PC006",
+        "Modelo": "Acer Aspire 5",
+        "SO": "Ubuntu 20.10",
+        "ID_Departamento": "5",
+        "ID_Usuario": "6"
+    },
+    {
+        "ID": "PC007",
+        "Modelo": "Acer Aspire 5",
+        "SO": "Ubuntu 20.10",
+        "ID_Departamento": "1",
+        "ID_Usuario": "7"
+    },
+    {
+        "ID": "PC008",
+        "Modelo": "Acer Aspire 5",
+        "SO": "Windows 10",
+        "ID_Departamento": "1",
+        "ID_Usuario": "8"
+    },
+    {
+        "ID": "PC009",
+        "Modelo": "Acer Aspire 5",
+        "SO": "Windows 10",
+        "ID_Departamento": "2",
+        "ID_Usuario": "9"
+    },
+    {
+        "ID": "PC010",
+        "Modelo": "Acer Aspire 5",
+        "SO": "Windows 10",
+        "ID_Departamento": "1",
+        "ID_Usuario": "10"
+    },
+    {
+        "ID": "PC011",
+        "Modelo": "Lenovo Ideapad S145",
+        "SO": "Ubuntu 20.10",
+        "ID_Departamento": "5",
+        "ID_Usuario": "11"
+    },
+    {
+        "ID": "PC012",
+        "Modelo": "Lenovo Ideapad S145",
+        "SO": "Ubuntu 20.10",
+        "ID_Departamento": "3",
+        "ID_Usuario": "12"
+    },
+    {
+        "ID": "PC013",
+        "Modelo": "Acer Aspire 5",
+        "SO": "Windows 10",
+        "ID_Departamento": "2",
+        "ID_Usuario": "13"
+    }
+]

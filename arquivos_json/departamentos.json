@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "Departamentos": "TI"
+    },
+    {
+        "id": "2",
+        "Departamentos": "RH"
+    },
+    {
+        "id": "3",
+        "Departamentos": "Compras"
+    },
+    {
+        "id": "4",
+        "Departamentos": "Produção"
+    },
+    {
+        "id": "5",
+        "Departamentos": "Depósito"
+    },
+    {
+        "id": "6",
+        "Departamentos": "Vendas"
+    },
+    {
+        "id": "7",
+        "Departamentos": "Financeiro"
+    }
+]

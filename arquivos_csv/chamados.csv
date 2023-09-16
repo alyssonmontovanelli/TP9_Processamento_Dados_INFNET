@@ -1,0 +1,12 @@
+ID,Titulo,Descricao,Data_abertura,Status,Prioridade,ID_Departamento,ID_Usuario
+1,Conexão lenta,Conexão de internet lenta demais,03 mar. 23,Concluída,Baixa,1,1
+2,Conexão lenta,Conexão muito lenta,09 mar. 23,Concluída,Baixa,2,2
+3,Computador lento,Computador demora para abrir os programas,15 mar. 23,Concluída,Alta,3,3
+4,Monitor com defeito,display com risco vermelho,29 mar. 23,Em Progresso,Média,4,4
+5,Conexão lenta,"Não consigo navegar pela plataforma da empresa, conexão lenta",12 ago. 23,Em Progresso,Baixa,5,5
+6,Troca de componentes,mouse com problemas,13 ago. 23,Aberto,Média,5,5
+7,Solicitação de acesso,Preciso de acesso liberado a determinados sites,14 ago. 23,Aberto,Alta,5,4
+8,Solicitação de acesso,Preciso de acesso liberado a determinados sites,15 ago. 23,Aberto,Alta,2,9
+9,Solicitação de acesso,Preciso de acesso liberado a determinados sites,16 ago. 23,Aberto,Alta,1,10
+10,Conexão lenta,Conexão lenta,17 ago. 23,Em Progresso,Baixa,5,7
+11,Conexão lenta,Dificuldade de acesso,17 ago. 23,Em Progresso,Baixa,2,5

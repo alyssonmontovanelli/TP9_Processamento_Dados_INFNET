@@ -1,0 +1,14 @@
+ID,Modelo,SO,ID_Departamento,ID_Usuario
+PC001,Lenovo Ideapad S145,Windows 10,1,1
+PC002,HP Pavilion x360,Windows 10,2,2
+PC003,HP Pavilion x360,Windows 10,3,3
+PC004,HP Pavilion x360,Ubuntu 20.10,4,4
+PC005,HP Pavilion x360,Ubuntu 20.10,5,5
+PC006,Acer Aspire 5,Ubuntu 20.10,5,6
+PC007,Acer Aspire 5,Ubuntu 20.10,1,7
+PC008,Acer Aspire 5,Windows 10,1,8
+PC009,Acer Aspire 5,Windows 10,2,9
+PC010,Acer Aspire 5,Windows 10,1,10
+PC011,Lenovo Ideapad S145,Ubuntu 20.10,5,11
+PC012,Lenovo Ideapad S145,Ubuntu 20.10,3,12
+PC013,Acer Aspire 5,Windows 10,2,13
